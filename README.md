@@ -1,7 +1,9 @@
 This source-plugin for Flume is able to consume data from an OPC server. OPC is an industry standard for sensoric data.
 
 More information: http://www.opcdatahub.com/WhatIsOPC.html
+
 Used library: https://openscada.atlassian.net/wiki/display/OP/HowToStartWithUtgard
+
 OPC server trial: https://www.softwaretoolbox.com/topserver/ (Windows required)
 
 
